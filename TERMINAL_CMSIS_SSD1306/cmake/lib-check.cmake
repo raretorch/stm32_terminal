@@ -1,0 +1,5 @@
+function(require_directory dir_path error_message)
+    if(NOT EXISTS "${dir_path}" OR NOT IS_DIRECTORY "${dir_path}")
+        message(FATAL_ERROR "${error_message}\n  PATH: ${dir_path}")
+    endif()
+endfunction()

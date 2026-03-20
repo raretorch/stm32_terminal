@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_display.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_display.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_display.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_display.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_gpio.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_gpio.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_gpio.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_gpio.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_graph.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_graph.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_graph.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_graph.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_i2c.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_i2c.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_i2c.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_i2c.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_rcc.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_rcc.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_rcc.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_rcc.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_sys_tick.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_sys_tick.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_sys_tick.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_sys_tick.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_timers.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_timers.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_timers.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_timers.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_usart.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_usart.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_usart.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_usart.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\local_window_manager.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_window_manager.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\local_window_manager.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\local_window_manager.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\main.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\main.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\main.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\syscalls.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\syscalls.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\syscalls.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\syscalls.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -std=gnu11 -mcpu=cortex-m3 -mthumb -O0 -g3 -ffunction-sections -fdata-sections -o CMakeFiles\\STM32F103C8T6.dir\\src\\system_stm32f10x.c.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\system_stm32f10x.c",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\src\\system_stm32f10x.c",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\src\\system_stm32f10x.c.obj"
+},
+{
+  "directory": "C:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/build",
+  "command": "C:\\ST\\STM32CubeCLT_1.20.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DSTM32F103xB -DSTM32F10X_MD -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/cmsis/Device/STM32F103/Include -IC:/Users/a.semakin/Documents/STM32/TERMINAL_CMSIS_SSD1306/src/headers -g -mcpu=cortex-m3 -mthumb -x assembler-with-cpp -o CMakeFiles\\STM32F103C8T6.dir\\startup_stm32f103xb.s.obj -c C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\startup_stm32f103xb.s",
+  "file": "C:\\Users\\a.semakin\\Documents\\STM32\\TERMINAL_CMSIS_SSD1306\\startup_stm32f103xb.s",
+  "output": "CMakeFiles\\STM32F103C8T6.dir\\startup_stm32f103xb.s.obj"
+}
+]
